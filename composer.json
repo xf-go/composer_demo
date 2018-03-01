@@ -1,0 +1,14 @@
+{
+    "name": "xufei1987/campus.cherry.cn",
+    "description": "xiaoyuanxing",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xufei",
+            "email": "812853789@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
