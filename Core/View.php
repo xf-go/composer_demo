@@ -10,7 +10,7 @@ class View
 
     public function make($file)
     {
-        $this->file = 'View/' . $file . '.html';
+        $this->file = 'view/' . $file . '.html';
         return $this;
     }
 
